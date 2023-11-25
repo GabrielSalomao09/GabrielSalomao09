@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: dc- luiss.gabriel
+- Brazillian
 
 <!---
 GabrielSalomao09/GabrielSalomao09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
